@@ -1,6 +1,6 @@
 # chatbot
 mobile application development
-# <a href="https://github.com/iMahalak18/chatbot" target="_blank">Order Bot</a>
+# <a href="https://github.com/iMahalak18/chatbot">Order Bot</a>
 
 To run:
 
